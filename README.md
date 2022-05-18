@@ -5,6 +5,9 @@ This repository holds my programming projects done during the period of stanCode
 Watch my **[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)**
 
 
+
+
+
 ## Project Source Codes:
 - [Hailstone Sequence](https://github.com/ZoeyYen/MystanCodeProjects/blob/main/stanCode_Projects/01_Hailstone_Sequence/hailstone.py)
   - Basic python semantics & syntax
@@ -22,4 +25,5 @@ Watch my **[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0I
 - [Name Popularity Searching System](https://github.com/ZoeyYen/MystanCodeProjects/blob/main/stanCode_Projects/06_Name_Popularity_Searching_System/babygraphics.py)
   - data structure
 - [Boggle Game Solver](https://github.com/ZoeyYen/MystanCodeProjects/blob/main/stanCode_Projects/07_Boggle_Game_Slover/boggle.py)
-  -recursive functions
+  - recursive functions
+  
