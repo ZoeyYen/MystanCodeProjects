@@ -1,12 +1,6 @@
 """
 File: stanCodoshop.py
-----------------------------------------------
-SC101_Assignment3
-Adapted from Nick Parlante's
-Ghost assignment by Jerry Liao.
-
------------------------------------------------
-
+Name: Zoey Yen
 TODO: remove the pedestrians from the photo
 """
 
