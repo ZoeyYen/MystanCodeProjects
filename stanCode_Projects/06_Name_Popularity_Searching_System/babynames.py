@@ -1,9 +1,5 @@
 """
 SC101 Baby Names Project
-Adapted from Nick Parlante's Baby Names assignment by
-Jerry Liao.
-
-YOUR DESCRIPTION HERE
 """
 
 import sys
@@ -105,7 +101,6 @@ def search_names(name_data, target):
 
 def print_names(name_data):
     """
-    (provided, DO NOT MODIFY)
     Given a name_data dict, print out all its data, one name per line.
     The names are printed in alphabetical order,
     with the corresponding years data displayed in increasing order.
