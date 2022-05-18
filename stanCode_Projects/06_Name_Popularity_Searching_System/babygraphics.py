@@ -1,9 +1,5 @@
 """
 SC101 Baby Names Project
-Adapted from Nick Parlante's Baby Names assignment by
-Jerry Liao.
-
-YOUR DESCRIPTION HERE
 """
 
 import tkinter
@@ -89,8 +85,6 @@ def draw_names(canvas, name_data, lookup_names):
     """
     draw_fixed_lines(canvas)        # draw the fixed background grid
 
-    # Write your code below this line
-    #################################
     for i in range(len(lookup_names)):
         name = lookup_names[i]
         year_rank = name_data[name]
