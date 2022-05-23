@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 and SC201 course.
 
-Watch  **[DEMO VIDEOS!](https://drive.google.com/drive/folders/1MS2z32VoR3XIkNlyuoOpywufAde2yjiy?usp=sharing)**
+Watch my **[DEMO VIDEOS!](https://drive.google.com/drive/folders/1MS2z32VoR3XIkNlyuoOpywufAde2yjiy?usp=sharing)**
 
 
 
